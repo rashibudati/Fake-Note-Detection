@@ -12,12 +12,8 @@ Required libraries:
 7. Python 3.5
 
 To Run:
-Step 1:
+
 ```
 python T1.py
 
-```
-Step 2:
-```
-python T2.py
 ```
